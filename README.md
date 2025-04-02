@@ -44,6 +44,7 @@ Clonar repositorio:
 bash
 Copy
 git clone https://github.com/aytana18/proyecto5.git
+
 Abrir index.html en cualquier navegador
 
 Personalización
@@ -61,6 +62,7 @@ html
 Copy
 <a href="https://wa.me/TUNUMERO">...</a>
 Run HTML
+
 Capturas de Pantalla
 ![image](https://github.com/user-attachments/assets/7e1676d7-3b22-4264-9481-b17633054053)
 
